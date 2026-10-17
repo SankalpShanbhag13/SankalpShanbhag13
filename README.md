@@ -3,9 +3,9 @@
 💻 Aspiring Software Engineer
 
 
-### 👀 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=SankalpShanbhag13&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=SankalpShanbhag13&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sankalpshanbhag13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-n-shanbhag ) [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=sankalpshanbhag13@gmail.com)
