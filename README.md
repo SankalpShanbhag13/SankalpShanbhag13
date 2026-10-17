@@ -3,8 +3,7 @@
 💻 Aspiring Software Engineer
 
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=SankalpShanbhag13&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
+![Profile Views](https://profile-counter.glitch.me/SankalpShanbhag13/count.svg)
 
 
 ## 🌐 Socials:
