@@ -1,7 +1,7 @@
 ## Hi👋,I'm Sankalp N Shanbhag
 # 💫 About Me:
-💻 Aspiring Software Engineer
-You can reach out to me at : sankalpshanbhag13@gmail.com
+💻 Aspiring Software Engineer<br>
+📩 You can reach out to me at: <a href="mailto:sankalpshanbhag13@gmail.com">sankalpshanbhag13@gmail.com</a>
 
 
 ![Profile Views](https://view-counter.tobyhagan.com/?user=SankalpShanbhag13)
