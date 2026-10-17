@@ -1,6 +1,6 @@
 ## Hi👋,I'm Sankalp N Shanbhag
 # 💫 About Me:
-💻 Aspiring Software Engineer from INDIAU+1F1EE U+1F1F3
+💻 Aspiring Software Engineer from INDIAU+1F1EE and U+1F1F3
 
 
 ## 🌐 Socials:
