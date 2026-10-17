@@ -1,7 +1,6 @@
 ## Hi👋,I'm Sankalp N Shanbhag
 # 💫 About Me:
-💻 Aspiring Software Engineer from INDIAU+1F1EE and U+1F1F3
-
+💻 Aspiring Software Engineer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sankalpshanbhag13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sankalp-n-shanbhag ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalpshanbhag13@gmail.com) 
